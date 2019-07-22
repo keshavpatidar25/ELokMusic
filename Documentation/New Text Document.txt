@@ -1,0 +1,16 @@
+Circulate to all Prepare a documentation of of following information.
+Prepare and submit Design Documents of your projects Presentation (Probably would be in next week from 3.pm onwards in presence of Industry delegates)
+Problem Definition
+Goal of your project
+List of Stackholders
+Expected  Outcome and Reports from Project
+Constraints
+Scope (In scope and Outscope)
+Project Charter
+Schedule of overall plan
+Gantt chart of activities done so for
+Feasibility study Report(specific to your own project, not General Theory)
+Problem definition 
+SRS
+SDD (ER ,DFD, all UML diagrams, Input design, Output design, File Design, Control design)
+Test Plans
